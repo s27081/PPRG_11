@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Ziemowit" << endl;
+  cout << "27081" << endl;
+  cout << "PJATK" << endl;
+
+  return 0;
+}
